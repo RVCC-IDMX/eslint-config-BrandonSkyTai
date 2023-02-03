@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-brandonskytai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/eslint-config-BrandonSkyTai.git"
+  },
+  "keywords": [],
+  "author": "BrandonSkyTai <bt325sky@gmail.com> (https://github.com/BrandonSkyTai)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/eslint-config-BrandonSkyTai/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/eslint-config-BrandonSkyTai#readme"
+}
